@@ -87,7 +87,7 @@ export default function () {
             <br />
             <p className="sub">+ Sub thread</p>
             <br />
-            <figure data-title="Butter Cookies!" className="align">
+            <figure data-title="Butter Cookies!" className="form3">
               <figcaption>
                 <form action="/action_page.php">
                   <label for="fname" className="sum">
