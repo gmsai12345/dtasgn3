@@ -10,7 +10,7 @@ export default function Navbar() {
           alt=""
         />
       </Link>
-      <ul>
+      <ul className="nav1">
         <CustomLink to="/Home">
           <img
             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABmJLR0QA/wD/AP+gvaeTAAAA3UlEQVRIie2VPwrCMBSHv4o4CS6ewAt4Bye9gEfwCl7BM+gd3JwdRKWnENSxq4MVrIMvEErtnyStoPngB80jL19JWgKecgyAA3CU50YYARGQSCKpKfZS37mUzoBYk6o8gLnM0evWdIBVhjCdpUtxH9iWkGbFmCFwMpQai6fAzUKayBqlCXh/KE9LaSJrLIBWkbQLrB0I09kAvTxxWINUJdRF6S2Ii7bEgrs+CD5McvLz53kKD70uviZuG/Q4OZ7/22ov9uLGxdecnqqX/qXKC02kwfZGOgPjKmLP7/ACLCKp7769VB8AAAAASUVORK5CYII="
