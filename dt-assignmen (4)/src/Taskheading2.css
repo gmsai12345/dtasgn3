@@ -83,7 +83,6 @@
   display: inline-block;
   font-size: 20px;
   padding: 20px;
-  background-color: blue;
 }
 .sub {
   text-align: left;
@@ -135,4 +134,13 @@
 }
 .save {
   text-align: right;
+}
+.form1 {
+  text-align: center;
+}
+.form2 {
+  text-align: center;
+}
+.form3 {
+  text-align: center;
 }
