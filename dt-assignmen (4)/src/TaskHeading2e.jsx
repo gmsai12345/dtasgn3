@@ -94,7 +94,7 @@ export default function () {
                     Summary for Thread A
                   </label>
                   <br />
-                  <input type="text" id="fname" className="fname" />
+                  <input type="text" id="fname" className="form3" />
                 </form>
               </figcaption>
             </figure>
