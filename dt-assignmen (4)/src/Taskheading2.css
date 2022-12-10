@@ -1,0 +1,138 @@
+.task1 {
+  text-align: right;
+}
+.task2 {
+  text-align: left;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.TaskHeading2 {
+  width: relative;
+  border: 2px solid gray;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 25px;
+}
+.title {
+  width: relative;
+  height: 40px;
+  color: white;
+  border: 2px solid gray;
+  background-color: black;
+  padding: 1px;
+  margin: 0px;
+  text-align: center;
+  border-radius: 25px;
+  font-size: 28px;
+}
+.para {
+  width: relative;
+  border: 2px solid gray;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 25px;
+}
+.title {
+  width: relative;
+  color: white;
+  border: 2px solid gray;
+  background-color: black;
+  padding: 10px;
+  margin: 0px;
+  text-align: center;
+  border-radius: 25px;
+}
+.thread {
+  border: 1px solid gray;
+  text-align: left;
+}
+.form1 {
+  text-align: left;
+  border-radius: 15px;
+}
+.form2 {
+  text-align: right;
+  border-radius: 15px;
+}
+.in {
+  display: inline;
+}
+.fname {
+  border: 3px solid #555;
+  width: relative;
+  height: 100px;
+  border-radius: 15px;
+  align: left;
+}
+.tab {
+  display: inline-block;
+}
+.nav {
+  background-color: blue;
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  background-color: blue;
+}
+.sub {
+  text-align: left;
+  width: 150px;
+  padding: 10px;
+  border: 5px solid gray;
+  background-color: blue;
+  border-radius: 15px;
+  margin: 0;
+}
+.f1 {
+  color: black;
+  background-color: gray;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  border-radius: 15px;
+  font-size: 22px;
+}
+.sum {
+  color: black;
+  background-color: gray;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  border-radius: 15px;
+  font-size: 18px;
+}
+.align {
+  text-align: left;
+}
+.al {
+  text-align: left;
+}
+.al2 {
+  text-align: right;
+}
+.sub1 {
+  text-align: center;
+  width: 150px;
+  padding: 10px;
+  border: 5px solid gray;
+  background-color: blue;
+  border-radius: 15px;
+  margin: 0;
+}
+.sub11 {
+  text-align: right;
+}
+.save {
+  text-align: right;
+}
